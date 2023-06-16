@@ -1,34 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Genesis Bank Challenge
 
-## Getting Started
+O objetivo deste desafio era criar uma aplicação web para o Genesis Bank. A aplicação foi desenvolvida utilizando React, Next.js como framework, e aproveitando os benefícios do Tailwind CSS e Chakra UI para criar uma interface bonita, responsiva e amigável aos usuários.
 
-First, run the development server:
+## 🚀 Começando
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+
+### 📋 Pré-requisitos
+
+Do que você precisa para instalar o software?
+
+```
+NPM - Gerenciador de pacotes
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🔧 Instalação
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Para instalar é bem simples, apenas faça uma copia do repositório em sua máquina e execute os seguintes comandos no terminal:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```
+npm i
+```
 
-## Learn More
+e
 
-To learn more about Next.js, take a look at the following resources:
+```
+npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+assim seu projeto estará pronto e rodando no endereço:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```
+http://localhost:300
+```
 
-## Deploy on Vercel
+## 🛠️ Construído com
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [Nextjs](https://nextjs.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [ChakraUi](https://chakra-ui.com/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## ✒️ Autores
+
+- **Matheus Borges** - [Linkedin](https://www.linkedin.com/in/matheus-borges-4a7469239/)
+
+---
+
+⌨️ com ❤️ por [BorgesCode](https://github.com/Borgeta-code) 😊
