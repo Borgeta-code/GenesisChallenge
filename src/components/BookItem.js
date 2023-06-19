@@ -20,7 +20,7 @@ export default function BookItem(props) {
 
   return (
     <>
-      <Card maxW="sm" key={props.id} mt={2}>
+      <Card maxW="sm" key={props.id}>
         <CardBody>
           <Stack spacing="2">
             <Heading size="md">{props.title}</Heading>
